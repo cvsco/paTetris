@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:05.412</timestamp>
+  <label>START</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:11.031</timestamp>
+  <label>PLAY</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:12.779</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:13.235</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:13.573</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:13.836</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:14.142</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:14.416</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:14.682</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:14.945</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:15.191</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:15.543</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:16.024</timestamp>
+  <label>SPACEBAR</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:17.077</timestamp>
+  <label>END</label>
+</EventGUI>
+
+<EventGUI>
+  <appName>TetrisGame</appName>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2022-09-12 13:10:29.297</timestamp>
+  <label>CLOSE</label>
+</EventGUI>
+

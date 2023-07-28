@@ -1,0 +1,51 @@
+.right_pannel{
+	-fx-alignment: center;
+}
+
+.user{
+	-fx-alignment: center;
+}
+
+#button {
+	/*-fx-border-color: rgb(49, 89, 23);*/
+	-fx-border-radius: 5;
+	-fx-font: 13px "Helvetica";
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+
+.playButton{
+	-fx-background-color: #008A00;
+	-fx-border-color:  #005700;
+}
+
+.resetButton{
+	-fx-background-color: #E51400;
+	-fx-border-color:  #B20000;
+}
+
+.table-view{
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.column{
+	-fx-alignment: center;
+	-fx-font: 13px "Helvetica";
+	-fx-background-color: #10141c;
+	-fx-border-color: #10141c;
+	-fx-text-fill: white;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: #f08414;
+    -fx-background-radius: 7px 7px 0px 0px;
+}
+
+/*
+FONTI: https://stackoverflow.com/questions/33938811/styling-a-tableview-in-css-javafx
+per recuperare i parametri per impostare la TableView
+*/

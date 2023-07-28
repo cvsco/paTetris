@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- configparameters.xml 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="configparameters.xsd"-->
+<ConfigParameters ipDB="127.0.0.1" portDB="3306" >
+	<userDB>root</userDB>
+	<passwordDB></passwordDB>
+	<ipServerLog>127.0.0.1</ipServerLog>
+	<portServerLog>8080</portServerLog>
+	<ipClient>127.0.0.1</ipClient>
+	<rankingTopX>10</rankingTopX>
+	<startLevel>1</startLevel>
+	<windowColor>#282F3E</windowColor>
+	<playingFieldColor>#10141c</playingFieldColor>
+	<textFont>Helvetica</textFont>
+	<textSize>15</textSize>
+	<textColor>#f08414</textColor>
+</ConfigParameters>

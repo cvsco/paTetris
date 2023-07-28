@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="ConfigParameters">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="userDB" type="xs:string"/>
+				<xs:element name="passwordDB" type="xs:string"/>
+				<xs:element name="ipServerLog" type="xs:string"/>
+				<xs:element name="portServerLog" type="xs:int"/>
+				<xs:element name="ipClient" type="xs:string"/>
+				<xs:element name="rankingTopX" type="xs:int"/>
+				<xs:element name="startLevel" type="xs:int"/>
+				<xs:element name="windowColor" type="xs:string"/>
+				<xs:element name="playingFieldColor" type="xs:string"/>
+				<xs:element name="textFont" type="xs:string"/>
+				<xs:element name="textSize" type="xs:int"/>
+				<xs:element name="textColor" type="xs:string"/>
+			</xs:sequence>
+			<xs:attribute name="ipDB" type="xs:string" use="required"/>
+			<xs:attribute name="portDB" type="xs:int" use="required"/>
+		</xs:complexType>
+	</xs:element>
+ </xs:schema>
